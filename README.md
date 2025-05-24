@@ -44,7 +44,7 @@ Veri kümesinde yer alan bazı sütunlar:
 ![XGBoost Tahmin](https://github.com/Ugurhandasdemir/HouseRentPredictor/blob/main/plots/03_xgboost_predicted_vs_actual.png)
 
 ### 4. Linear Regression - Artıklar
-![Linear Hatalar](github.com/Ugurhandasdemir/HouseRentPredictor/blob/main/plots/04_linear_regression_residuals.png)
+![Linear Hatalar](https://github.com/Ugurhandasdemir/HouseRentPredictor/blob/main/plots/04_linear_regression_residuals.png)
 
 ### 5. Linear Regression - Gerçek vs Tahmin
 ![Linear Tahmin](https://github.com/Ugurhandasdemir/HouseRentPredictor/blob/main/plots/05_linear_regression_predicted_vs_actual.png)
