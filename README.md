@@ -35,19 +35,19 @@ Veri kümesinde yer alan bazı sütunlar:
 ## 📊 Görseller
 
 ### 1. Şehre Göre Kira Dağılımı
-![Şehre Göre Kira](https://github.com/Ugurhandasdemir/HouseRentPredictor/raw/main/plots/rent_by_city.png)
+![Şehre Göre Kira](https://github.com/Ugurhandasdemir/HouseRentPredictor/blob/main/plots/01_city_rent_distribution.png)
 
 ### 2. Korelasyon Matrisi
-![Korelasyon Matrisi](https://github.com/Ugurhandasdemir/HouseRentPredictor/raw/main/plots/correlation_heatmap.png)
+![Korelasyon Matrisi](https://github.com/Ugurhandasdemir/HouseRentPredictor/blob/main/plots/02_correlation_heatmap.png)
 
 ### 3. XGBoost - Gerçek vs Tahmin
-![XGBoost Tahmin](https://github.com/Ugurhandasdemir/HouseRentPredictor/raw/main/plots/xgb_real_vs_pred.png)
+![XGBoost Tahmin](https://github.com/Ugurhandasdemir/HouseRentPredictor/blob/main/plots/03_xgboost_predicted_vs_actual.png)
 
 ### 4. Linear Regression - Artıklar
-![Linear Hatalar](https://github.com/Ugurhandasdemir/HouseRentPredictor/raw/main/plots/linear_residuals.png)
+![Linear Hatalar](github.com/Ugurhandasdemir/HouseRentPredictor/blob/main/plots/04_linear_regression_residuals.png)
 
 ### 5. Linear Regression - Gerçek vs Tahmin
-![Linear Tahmin](https://github.com/Ugurhandasdemir/HouseRentPredictor/raw/main/plots/linear_real_vs_pred.png)
+![Linear Tahmin](https://github.com/Ugurhandasdemir/HouseRentPredictor/blob/main/plots/05_linear_regression_predicted_vs_actual.png)
 
 ### 6. XGBoost Regressor Sonuçları
 ![XGBoost](https://github.com/Ugurhandasdemir/HouseRentPredictor/blob/main/plots/XGBoost%20Regressor%20Sonu%C3%A7lar%C4%B1.png)
